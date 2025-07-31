@@ -43,3 +43,9 @@ The advantages of Shizuku are:
 
 1. Minimal extra time and performance consumption
 2. It is almost identical to the direct invocation API experience (app developers only need to add a small amount of code)
+Starting with root...
+
+
+Can't open root shell, try again...
+
+Still not :(
